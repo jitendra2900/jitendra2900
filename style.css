@@ -1,0 +1,76 @@
+body{
+font-family:Arial,Helvetica,sans-serif;
+background-color: #ffffcc;
+}
+
+img{
+border:10px solid green;
+}
+
+h1{
+border:5px dotted red;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+    background-image: url(http://placekitten.com/200/200);
+    color: white;
+}
+h2{
+font-family:Georgia,'Times New Roman',Times,serif;
+font-size:3rem;
+font-style:Italic;
+text-align:center;
+
+}
+h3{
+font-family:Georgia,'Times New Roman',Times,serif;
+font-size:3rem;
+font-style:Italic;
+text-align:center;
+
+}
+.bigbold{
+font-weight:bold;
+font-size:2rem;
+
+}
+a:visited{
+color:green;
+font-size:2rem;
+}
+a:link{
+font-weight:bold;
+text-decoration:none;
+color:brown;
+}
+a:hover{
+color:orange;
+text-decoration:underline;
+background-color:black;
+}
+a.jitendra:link{
+color:lightblue;
+}
+#myid{
+color:purple;
+font-weight:bold;
+}
+
+div{
+border:5px blue solid;
+margin:1rem
+}
+.box1{
+border-color:orange;
+background-color:#ffcc00;
+}
+.box2 p{
+border:2px solidgreen;
+
+margin:0;
+}
+
